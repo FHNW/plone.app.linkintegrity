@@ -1,7 +1,7 @@
 Changelog
 =========
 
-3.0.7 (unreleased)
+3.0.9 (unreleased)
 ------------------
 
 Breaking changes:
@@ -12,6 +12,31 @@ New features:
 
 - Use plone.namedfile for testing images
   [didrix]
+
+- Information about contents within a selected folder for deletion. 
+  This information contains number of deleted objects, 
+  number of subfolders and number of published objects.
+  [karalics]
+
+Bug fixes:
+
+- *add item here*
+
+
+3.0.8 (2016-11-09)
+------------------
+
+Bug fixes:
+
+- Add coding headers on python files.
+  [gforcada]
+
+- Remove hard dependency on Archetypes (again).
+  [davisagli]
+
+
+3.0.7 (2016-09-16)
+------------------
 
 Bug fixes:
 
